@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1070154928726",
+    "firebase_url": "https://queue-management-system-c02cc.firebaseio.com",
+    "project_id": "queue-management-system-c02cc",
+    "storage_bucket": "queue-management-system-c02cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070154928726:android:da314f14813b8024c621f7",
+        "android_client_info": {
+          "package_name": "com.example.queue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070154928726-rpach3f6q9fgjp3mo9k5iphujii0m4l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zQ92QLd-l9MLqdaV9A8I61OiZJuXw5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070154928726-rpach3f6q9fgjp3mo9k5iphujii0m4l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
